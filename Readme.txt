@@ -1,3 +1,27 @@
+
+Nicotiana_benthamiana subAgenome assembly
+Nicotiana_benthamiana subBgenome assembly
+Nicotiana_benthamiana gene annotation
+Nicotiana_benthamiana CDS sequences
+Nicotiana_benthamiana protein sequences
+
+http://101.43.255.54:3838/pepper_data/yancao/Nbenth.SubA.fasta.gz
+http://101.43.255.54:3838/pepper_data/yancao/Nbenth.SubB.fasta.gz
+http://101.43.255.54:3838/pepper_data/yancao/Nbenth.annot.github.gff3.gz
+http://101.43.255.54:3838/pepper_data/yancao/Nbenth.cds.github.fa.gz
+http://101.43.255.54:3838/pepper_data/yancao/Nbenth.protein.github.fa.gz
+
+
+
+
+
+
+
+
+
+
+
+
 A subgenome: Chr01  Chr05  Chr06  Chr09  Chr15  Chr16  Chr17  Chr18  Chr19
 B subgenome: Chr02  Chr03  Chr04  Chr07  Chr08  Chr10  Chr11  Chr12  Chr13  Chr14
 
