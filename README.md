@@ -9,7 +9,6 @@
 
 # Subgenome phasing
 - A subgenome: Chr01  Chr05  Chr06  Chr09  Chr15  Chr16  Chr17  Chr18  Chr19
-
 - B subgenome: Chr02  Chr03  Chr04  Chr07  Chr08  Chr10  Chr11  Chr12  Chr13  Chr14
 
 
@@ -35,3 +34,8 @@
 	4	Fragmented BUSCOs (F)			   
 	67	Missing BUSCOs (M)			   
 	5950	Total BUSCO groups searched		   
+
+
+# Additional Nicotiana alata
+- [Nicotiana_alata genome assembly](http://101.43.255.54:3838/pepper_data/yancao/Nicotiana_alata.fasta)
+- [Nicotiana_alata gene annotation](http://101.43.255.54:3838/pepper_data/yancao/Nicotiana_alata.gff.gz)
