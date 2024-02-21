@@ -1,3 +1,6 @@
+Here, we report telomere-to-telomere (T2T) gap-free genomes for model plant Nicotiana benthamiana
+
+
 # Nicotiana benthamiana
 - [NbT2T subA genome assembly](http://101.43.255.54:3838/pepper_data/yancao/Nbenth.SubA.fasta.gz)
 - [NbT2T subB genome assembly](http://101.43.255.54:3838/pepper_data/yancao/Nbenth.SubB.fasta.gz)
