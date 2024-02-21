@@ -1,4 +1,4 @@
-Here, we report telomere-to-telomere (T2T) gap-free genomes for model plant Nicotiana benthamiana
+Here, we report telomere-to-telomere (T2T) gap-free genomes for model plant Nicotiana benthamiana.
 
 
 # Nicotiana benthamiana
