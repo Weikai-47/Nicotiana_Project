@@ -38,7 +38,3 @@ Here, we report telomere-to-telomere (T2T) gap-free genomes for model plant Nico
 	67	Missing BUSCOs (M)			   
 	5950	Total BUSCO groups searched		   
 
-
-# Additional Nicotiana alata
-- [Nicotiana_alata genome assembly](http://101.43.255.54:3838/pepper_data/yancao/Nicotiana_alata.fasta)
-- [Nicotiana_alata gene annotation](http://101.43.255.54:3838/pepper_data/yancao/Nicotiana_alata.gff.gz)
