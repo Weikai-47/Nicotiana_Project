@@ -38,3 +38,9 @@ Here, we report telomere-to-telomere (T2T) gap-free genomes for model plant Nico
 	67	Missing BUSCOs (M)			   
 	5950	Total BUSCO groups searched		   
 
+
+[Reference] Chen, W., Yan, M., Chen, S., Sun, J., Wang, J., Meng, D., ... & Guo, L. (2024). The complete genome assembly of Nicotiana benthamiana reveals the genetic and epigenetic landscape of centromeres. Nature Plants, 1-16.
+Misprint Correction:
+1. in the Figure 6, the N. attenuataz should be revised to "N. attenuata"
+2. in the section of "NUMTs surround the maternal centromeres", A total of 113 inserted NUMTs of 7.44 Mb length were identified genome-wide, among which 81 segments were located at (0.85 Mb) or close to (5.03 Mb) of the centromeres. (Brackets should be added)
+
